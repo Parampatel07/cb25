@@ -1,6 +1,6 @@
 // Write a programe to peform subtraction of 2 variable ( - )
+//with input without return value 
 #include <stdio.h>
-
 void getSub(int a, int b)
 {
      int answer = 0;
